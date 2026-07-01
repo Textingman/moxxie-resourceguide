@@ -16,7 +16,7 @@ export default function PrivacyPage() {
         <div className="prose prose-lg max-w-none">
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#1F2937' }}>1. Introduction</h2>
           <p className="mb-6" style={{ color: '#6B7280' }}>
-            Resource Guide ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our service and website at www.resourceguideai.com. By using our service, you agree to the collection and use of information in accordance with this policy.
+            Resourceful Labs ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our service and website at www.resourcefullabs.com. By using our service, you agree to the collection and use of information in accordance with this policy.
           </p>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#1F2937' }}>2. Information We Collect</h2>
           <p className="mb-4" style={{ color: '#6B7280' }}>When you sign up for or use our service, we may collect:</p>
@@ -28,12 +28,12 @@ export default function PrivacyPage() {
           </ul>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#1F2937' }}>3. SMS Messaging</h2>
           <p className="mb-4" style={{ color: '#6B7280' }}>
-            If you opt in to receive SMS messages from Resource Guide, the following terms apply:
+            If you opt in to receive SMS messages from Resourceful Labs, the following terms apply:
           </p>
           <ul className="list-disc pl-6 mb-6 space-y-2" style={{ color: '#6B7280' }}>
             <li>You may receive Account Notification messages and/or Customer Care messages depending on your opt-in selections.</li>
             <li>Message and data rates may apply. Message frequency varies.</li>
-            <li>To opt out, reply STOP to any message. To get help, reply HELP or contact us at support@resourceguideai.com.</li>
+            <li>To opt out, reply STOP to any message. To get help, reply HELP or contact us at support@resourcefullabs.com.</li>
             <li><strong>No mobile information will be shared with or sold to third parties for marketing or promotional purposes.</strong></li>
             <li>Opting in to SMS is optional and not required to use our service.</li>
           </ul>
@@ -47,9 +47,9 @@ export default function PrivacyPage() {
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#1F2937' }}>5. Contact Us</h2>
           <p className="mb-6" style={{ color: '#6B7280' }}>
             If you have questions about this Privacy Policy, please contact us at:<br />
-            Resource Guide<br />
+            Resourceful Labs<br />
             8 The Green, Ste A, Dover, DE 19901<br />
-            Email: <a href="mailto:support@resourceguideai.com" style={{ color: '#059669' }}>support@resourceguideai.com</a>
+            Email: <a href="mailto:support@resourcefullabs.com" style={{ color: '#059669' }}>support@resourcefullabs.com</a>
           </p>
         </div>
       </section>
